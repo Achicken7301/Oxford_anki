@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
+  <diagram name="Trang-1" id="3ia3mj9Av4EAcGYjjg3B">
+    <mxGraphModel dx="899" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l_4K8W36YvABCyb9OloW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-1" target="l_4K8W36YvABCyb9OloW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="20" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-2" target="l_4K8W36YvABCyb9OloW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-2" value="Read excel file exported from anki_db" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-4" target="l_4K8W36YvABCyb9OloW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-30" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-7">
+          <mxGeometry x="-0.3168" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-4" target="l_4K8W36YvABCyb9OloW-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="215.17391304347836" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-34" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-33">
+          <mxGeometry x="-0.1135" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-4" value="Start from word[i]&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;i &amp;lt; L&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;(L = number of words)&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="190" width="133.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-6" target="l_4K8W36YvABCyb9OloW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-12" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-10">
+          <mxGeometry x="-0.1574" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-6" target="l_4K8W36YvABCyb9OloW-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273.9565217391305" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-15" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-14">
+          <mxGeometry x="-0.3104" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-6" value="word[i] in local_oxford_db" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205.75" y="340" width="136.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-9" target="l_4K8W36YvABCyb9OloW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-9" value="word_definition[i] = local_oxford_db_definition" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-36" target="l_4K8W36YvABCyb9OloW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273.9565217391305" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-37" value="FOUND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-20">
+          <mxGeometry x="-0.1944" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-19" target="l_4K8W36YvABCyb9OloW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-19" value="woird_&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;definition[i] = request_definition&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-21" target="l_4K8W36YvABCyb9OloW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-21" value="Add new word with definition into local_oxford_db" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213.5" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-24" target="l_4K8W36YvABCyb9OloW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-24" value="Sleep from 0 - 1 second" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-35" value="Save word_definition into csv file for anki import" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-36" value="request from&amp;nbsp;&lt;div&gt;oxford_url&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218.19" y="460" width="110.62" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.846;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l_4K8W36YvABCyb9OloW-36" target="l_4K8W36YvABCyb9OloW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="500" />
+              <mxPoint x="370" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_4K8W36YvABCyb9OloW-39" value="NOT FOUND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l_4K8W36YvABCyb9OloW-38">
+          <mxGeometry x="0.0521" relative="1" as="geometry">
+            <mxPoint y="103" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

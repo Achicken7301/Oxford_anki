@@ -1,0 +1,42 @@
+<link href="https://www.oxfordlearnersdictionaries.com/external/styles/mywordlist_entry.css?version=2.3.71" rel="stylesheet" type="text/css" />
+<link href="https://www.oxfordlearnersdictionaries.com/external/styles/oald10.css?version=2.3.71" rel="stylesheet" type="text/css" />
+<link href="https://www.oxfordlearnersdictionaries.com/external/styles/ringlinks.css?version=2.3.71" rel="stylesheet" type="text/css" />
+<link href="https://www.oxfordlearnersdictionaries.com/external/styles/responsive.css?version=2.3.71" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700i" rel="stylesheet" type='text/css'> 
+<link rel="icon" type="image/x-icon" href="https://www.oxfordlearnersdictionaries.com/external/images/favicon.ico?version=2.3.71"/>
+
+
+
+<script language="JavaScript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/common.js?version=2.3.71"></script>
+<script language="javascript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/external/scripts/doubleclick.js?version=2.3.71"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/external/scripts/oxford.js?version=2.3.71"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/external/scripts/entry.js?version=2.3.71"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/external/scripts/jquery.lightbox-0.5.min.js?version=2.3.71"></script>
+<script language="JavaScript" type="text/javascript" src="https://www.oxfordlearnersdictionaries.com/external/scripts/mywordlist/mywordlist_entry.js?version=2.3.71"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+<script language="javascript" type="text/javascript">
+    var contextId= (location.hash != "" ? location.hash : null);
+    // global variable that contains the path to external files
+    // and used by the lightbox script 
+    var lightboxImageLoading = "https://www.oxfordlearnersdictionaries.com/external/images/lightbox-ico-loading.gif?version=2.3.71";
+    var lightboxImageBtnPrev = "https://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-prev.gif?version=2.3.71";
+    var lightboxImageBtnNext = "https://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-next.gif?version=2.3.71";
+    var lightboxImageBtnClose = "https://www.oxfordlearnersdictionaries.com/external/images/lightbox-btn-close.gif?version=2.3.71";
+    var lightboxImageBlank = "https://www.oxfordlearnersdictionaries.com/external/images/lightbox-blank.gif?version=2.3.71";
+    if (document.readyState != 'loading'){
+        initEntry('See more', 'See less');
+    } else if (document.addEventListener) {
+      document.addEventListener('DOMContentLoaded', function(){initEntry('See more', 'See less');});
+    } else {
+      document.attachEvent('onreadystatechange', function() {
+        if (document.readyState != 'loading')
+            initEntry('See more', 'See less');
+      });
+    }
+</script>
+<script language="javascript" type="text/javascript">
+    var pageDictCode = "english";
+    var authorized = false;
+</script>
